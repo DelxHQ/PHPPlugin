@@ -1,0 +1,6 @@
+name: Core
+main: delxhq\Core\Core
+api: [3.2.0]
+version: 1.0.0
+author: DelxHQ
+description: Test Plugin
